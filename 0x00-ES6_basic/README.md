@@ -1,7 +1,7 @@
 # 0x00. ES6 Basics
 `JavaScript` `ES6`
 
-![Arrow this](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png)
+![Arrow this](https://pbs.twimg.com/media/EyJkb9bWYAELoQV.jpg)
 ## Resources
 **Read or watch**:
 * [ECMAScript 6 - ECMAScript 2015](https://intranet.alxswe.com/rltoken/HRvh-7X2k2JmPu2XMuvlnQ)
